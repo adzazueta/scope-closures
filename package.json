@@ -1,0 +1,20 @@
+{
+  "name": "scope-closures",
+  "version": "1.0.0",
+  "description": "Repository to practice scope and closures in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adzazueta/scope-closures.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adzazueta/scope-closures/issues"
+  },
+  "homepage": "https://github.com/adzazueta/scope-closures#readme"
+}
